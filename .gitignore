@@ -17,6 +17,9 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
+downloads/
+
+
 # Go workspace file
 go.work
 go.work.sum
